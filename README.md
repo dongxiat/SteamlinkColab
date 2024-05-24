@@ -3,7 +3,7 @@ fork from https://github.com/limontec/Streamlink-Recorder
 Record any live stream and upload automatic to your Google Drive
 Record Twitch, YouTube, Afreecatv, Facebook...
 # Usage
-Click on the "Open in Colab" button. ![Open In Colab](https://colab.research.google.com/github/dongxiat/SteamlinkColab/blob/main/StreamlinkColab.ipynb)
+Click on the "Open in Colab" button.
 [![Open In Colab](https://colab.research.google.com/assets/colab-b)](https://colab.research.google.com/github/dongxiat/SteamlinkColab/blob/main/StreamlinkColab.ipynb)
 
 
